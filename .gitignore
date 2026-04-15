@@ -1,0 +1,12 @@
+*.o
+*.a
+*.so
+Makefile
+qt-editor
+qt-editor.pro.user
+.qmake.stash
+
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+
